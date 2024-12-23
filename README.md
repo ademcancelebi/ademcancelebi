@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Adem Can Çelebi! 👋
 
-<!--
-**ademcancelebi/ademcancelebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior year Mobile Technologies student at Trakya University.  
+🌟 Passionate about Internet of Things, Deep Learning and cross-platform app development.  
+📚 Currently learning new technologies and building exciting projects to expand my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Featured Projects
+
+- **[License Plate System](#)**  
+  Machine learning model for license plate recognition.  
+  **Tech Stack:** Python, OpenCV, NumPy, EasyOCR, YOLOv8.  
+
+- **[Music Player App](#)**  
+  A mobile app for music player.  
+  **Tech Stack:** Kotlin.   
+
+---
+
+## 🔧 Skills
+
+- **Languages:** Python, Kotlin, C#, Swift.  
+- **Web Technologies:** HTML, CSS, PHP.  
+- **Mobile Development:** Flutter, Kotlin, Swift.  
+- **AI & Machine Learning:** YOLOv8, NumPy, OpenCV.  
+- **Game Development:** Unity (2D/3D).  
+- **Backend Technologies:** FastAPI.  
+
+---
+
+## 📫 Contact Me
+
+- **Email:** adem_celebi@hotmail.com.tr  
+- **LinkedIn:** [Adem Can Çelebi](https://www.linkedin.com/in/adem-can-celebi-a93a31341)
+- **GitHub:** [Adem Can Çelebi](https://github.com/ademcancelebi)
+
