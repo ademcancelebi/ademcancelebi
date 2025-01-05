@@ -8,13 +8,13 @@
 
 ## ✨ Featured Projects
 
-- **[License Plate System](#)**  
-  Machine learning model for license plate recognition.  
-  **Tech Stack:** Python, OpenCV, NumPy, EasyOCR, YOLOv8.  
+- **[License Plate System](#)**
+  Machine learning model for license plate recognition.
+  **Tech Stack:** Python, OpenCV, EasyOCR, YOLO.
 
 - **[Music Player App](#)**  
-  A mobile app for music player.  
-  **Tech Stack:** Kotlin.   
+  A mobile app for music player.
+  **Tech Stack:** Kotlin.
 
 ---
 
